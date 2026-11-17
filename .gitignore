@@ -1,0 +1,16 @@
+# Gizli açarlar ve parollar 
+.env
+.env.local
+
+# Frontend kitabxanaları
+node_modules/
+.next/
+dist/
+
+# Backend / Python faylları
+__pycache__/
+.venv/
+venv/
+
+# Sistem faylları
+.DS_Store
